@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RadioActivityProbability
+comment0.text=\r\n\ This\ program\ demonstrates\ radioactive\ half-life\ decay\ in\ a\ specified\ number\ of\ particles\ using\ randomly\ generated\ probabilities\ of\ decay.\r\n\ @author\ (Jacob\ Landerer)\r\n\ @version\ (4.1.20)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=Particles\ turn\ NumRounds\ delay
+comment2.target=void\ ExecuteDecay(boolean[],\ int,\ int[],\ double)
+comment3.params=NumRounds\ delay\ turn
+comment3.target=void\ Print(int[],\ double,\ double)
+comment4.params=
+comment4.target=boolean\ DetermineDecay()
+comment5.params=array
+comment5.target=boolean\ ArrayState(boolean[])
+numComments=6

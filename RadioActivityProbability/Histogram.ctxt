@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Histogram
+comment0.text=\r\n\ This\ class\ takes\ in\ the\ array\ of\ the\ rounds\ each\ particle\ decays.\r\n\ It\ first\ determines\ the\ largest\ turn\ survived\ for\ the\ x\ bound,\ then\ the\ turn\ at\ which\ most\ particles\ died\ for\ the\ y\ bound.\r\n\r\n\ @author\ (Jacob\ Landerer)\r\n\ @version\ (4.12.20)\r\n
+comment1.params=NumRounds
+comment1.target=void\ GetMaximums(int[])
+comment2.params=NumRounds\ xBound\ yBound
+comment2.target=void\ Print(int[],\ int,\ int)
+comment3.params=NumRounds\ currentYLevel\ currentTurn
+comment3.target=java.lang.String\ DetermineExistence(int[],\ int,\ int)
+numComments=4
